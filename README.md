@@ -37,4 +37,4 @@ Built with Flutter dart
 - Удаление товаров из корзины
 - Расчет общей суммы заказа
 
-<img src="screenshot/Screenshot_1.png" width="200" height="445"> <img src="screenshot/Screenshot_2.png" width="200" height="445">
+<img src="screenshots/Screenshot_1.png" width="200" height="445"> <img src="screenshots/Screenshot_2.png" width="200" height="445">
