@@ -1,16 +1,40 @@
+# Shopping Cart App
+
+A simple application for managing a shopping cart with two screens: product list and cart.
+
+Built with Flutter dart
+
+## Technologies Used
+
+- provider 
+- Material Design
+
+## Features
+
+- View product list
+- Add products to cart
+- View cart contents
+- Remove products from cart
+- Calculate total order amount
+
+***
 # product_list
 
-Simple cart with products
+Простое приложение для управления корзиной покупок с двумя экранами: списком товаров и корзиной.
 
-## Getting Started
+Написано на Flutter dart
 
-This project is a starting point for a Flutter application.
+## Использованные технологии
 
-A few resources to get you started if this is your first Flutter project:
+- provider
+- Material Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Особенности
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Просмотр списка товаров
+- Добавление товаров в корзину
+- Просмотр содержимого корзины
+- Удаление товаров из корзины
+- Расчет общей суммы заказа
+
+<img src="screenshot/Screenshot_1.png" width="200" height="445"> <img src="screenshot/Screenshot_2.png" width="200" height="445">
